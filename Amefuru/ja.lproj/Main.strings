@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "まだ"; ObjectID = "EB4-j3-Qz2"; */
+"EB4-j3-Qz2.text" = "まだ";
+
+/* Class = "UILabel"; text = "場所"; ObjectID = "I8J-Q8-Ctr"; */
+"I8J-Q8-Ctr.text" = "場所";
+
+/* Class = "UILabel"; text = "通知時間"; ObjectID = "MQu-Zr-P6o"; */
+"MQu-Zr-P6o.text" = "通知時間";
+
+/* Class = "UILabel"; text = "まだ"; ObjectID = "N9E-T1-70Y"; */
+"N9E-T1-70Y.text" = "まだ";
+
+/* Class = "UILabel"; text = "場所"; ObjectID = "NgF-G7-Gvf"; */
+"NgF-G7-Gvf.text" = "場所";
+
+/* Class = "UIButton"; normalTitle = "決定"; ObjectID = "UST-G4-aUU"; */
+"UST-G4-aUU.normalTitle" = "決定";
+
+/* Class = "UILabel"; text = "通知時間"; ObjectID = "gOf-Wq-hc8"; */
+"gOf-Wq-hc8.text" = "通知時間";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qSP-Fh-FxO"; */
+"qSP-Fh-FxO.normalTitle" = "Button";
